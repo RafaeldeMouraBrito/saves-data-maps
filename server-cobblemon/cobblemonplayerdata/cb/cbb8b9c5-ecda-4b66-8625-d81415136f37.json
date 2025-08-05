@@ -1,24 +1,78 @@
 {
   "uuid": "cbb8b9c5-ecda-4b66-8625-d81415136f37",
-  "starterPrompted": false,
+  "starterPrompted": true,
   "starterLocked": false,
-  "starterSelected": false,
+  "starterSelected": true,
+  "starterUUID": "1a54a3db-8280-450f-9ca7-270515f44ba5",
   "keyItems": [],
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 0,
+    "totalCaptureCount": 10,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 0,
+    "totalEvolvedCount": 3,
+    "totalBattleVictoryCount": 16,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 0,
-    "totalPvNBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 14,
+    "totalPvNBattleVictoryCount": 2,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
-    "totalTypeCaptureCounts": {},
-    "totalDefeatedCounts": {},
-    "aspectsCollected": {}
+    "totalTypeCaptureCounts": {
+      "ghost": 1,
+      "flying": 2,
+      "electric": 3,
+      "grass": 1,
+      "normal": 1,
+      "bug": 1,
+      "fighting": 2,
+      "dark": 1,
+      "fire": 1,
+      "water": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:cascoon": 1,
+      "cobblemon:hoothoot": 1,
+      "cobblemon:spoink": 1,
+      "cobblemon:minior": 1,
+      "cobblemon:houndour": 1,
+      "cobblemon:drifloon": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:braixen": [
+        "male"
+      ],
+      "cobblemon:drifblim": [
+        "female"
+      ],
+      "cobblemon:mareep": [
+        "male"
+      ],
+      "cobblemon:arboliva": [
+        "female"
+      ],
+      "cobblemon:scatterbug": [
+        "female"
+      ],
+      "cobblemon:spewpa": [
+        "female"
+      ],
+      "cobblemon:vivillon": [
+        "female",
+        "vivillon-wings-continental"
+      ],
+      "cobblemon:mankey": [
+        "male"
+      ],
+      "cobblemon:nickit": [
+        "male"
+      ],
+      "cobblemon:pignite": [
+        "male"
+      ],
+      "cobblemon:ducklett": [
+        "female"
+      ]
+    }
   }
 }
